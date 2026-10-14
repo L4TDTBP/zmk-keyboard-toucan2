@@ -1,4 +1,0 @@
-&tps43_trackpad {
-    hold-time = <300>;
-    report-rate-lp2 = <160>;
-};
